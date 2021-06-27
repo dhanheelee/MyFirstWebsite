@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(51, 79, 139);
+    
+}
+#header {
+    background-color:cornflowerblue;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(61, 93, 153);
+}
+
+#list {
+    border-width: 1px;
+    border-style:solid;
+    border-color: cornflowerblue;
+    padding: 15px;
+    margin-left: 35%;
+}
+
+img{
+    width:40%;
+    height:25%;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(92, 204, 204);
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+#navlinks {
+    position: fixed;
+    background-color: cornflowerblue;
+}
+
+#footer {
+    background-color: cornflowerblue;
+    text-align: center;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(61, 93, 153);
+}
